@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'CDP' });
+  res.render('index', { title: 'CDP 123123' });
 });
 
 module.exports = router;
